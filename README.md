@@ -32,7 +32,8 @@ A collection of 3D Models/Designs, for Architecture, or Game Visualization and W
      ### DangerBox  (Mid-Poly) 
    - An Electrical Power transformer, for distributing electricity to households.
      ### Screenshot:
-     .....
+     ![Screenshot (411)](https://github.com/user-attachments/assets/af872e24-cc56-4803-853b-9228be71b919)
+
      ### Link: ......
      >>>
      ### BillBoard (Mid-Poly) 
