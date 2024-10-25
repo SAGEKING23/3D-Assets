@@ -1,4 +1,4 @@
-# 3D Models and Designs and Textures
+# 3D Models, Designs and Textures
 ### The Pository: 
 A collection of 3D Models/Designs, for Architecture, or Game Visualization and WhiteBoxing
 ### Assets are made with Blender/ Unreal Engine / Sketchup
