@@ -38,6 +38,9 @@ A collection of 3D Models/Designs, for Architecture, or Game Visualization and W
      ### BillBoard (Mid-Poly) 
    - An Electrical Power transformer, for distributing electricity to households.
      ### Screenshot:
-     .....
+     ![Screenshot (466)](https://github.com/user-attachments/assets/1e5bf0f4-9189-49e0-972a-380759b4a47f)
+
+     ![Screenshot (542)](https://github.com/user-attachments/assets/6a2ae210-52dd-41d1-9fab-d4b4be02812e)
+
      ### Link: ......
  ### NB: I create everything myself from the ground up so updating / uploading these files may take time depending on my life schedule."Life is one beautiful predicament, so be patient, diligent and considerate". SAGE.
